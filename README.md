@@ -6,7 +6,7 @@ Samarthya is an innovative and comprehensive platform designed to revolutionize 
 
 - **AI-Powered Evaluation**: Samarthya utilizes state-of-the-art natural language processing (NLP) algorithms to analyze resumes and extract valuable insights. This enables the platform to assess various aspects such as content quality, formatting, keywords, and overall suitability for specific job roles.
 
-- **Comprehensive Feedback**: Samarthya goes beyond traditional resume evaluation systems by offering detailed feedback on multiple dimensions. It provides suggestions for improving the clarity and impact of the resume, optimizing the use of action verbs and achievements, enhancing the organization and structure, and highlighting areas of improvement.
+- **Comprehensive Feedback**: Samarthya goes beyond traditional resume evaluation systems by offering detailed feedback on multiple dimensions. It provides suggestions for improving the clarity and impact of the resume, optimizing the use of action verbs and achievements, enhancing the organization and structure, and highlighting areas of improvement. 
 
 - **Personalized Recommendations**: The platform takes into account individual job seeker profiles and target industries to provide tailored recommendations. Samarthya identifies skills gaps, suggests relevant certifications or training programs, and offers guidance on industry-specific keywords to optimize resume visibility and appeal.
 
